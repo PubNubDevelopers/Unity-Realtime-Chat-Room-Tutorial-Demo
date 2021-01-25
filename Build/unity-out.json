@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity-Realtime-Chat-Room-Tutorial",
+"dataUrl": "unity-out.data.unityweb",
+"wasmCodeUrl": "unity-out.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity-out.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
